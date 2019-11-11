@@ -47,10 +47,5 @@ export const lowerItems = [
     {
         myName: 'Instagram',
         URL: 'http://instagram.com/_shuvabiswas12'
-    },
-    {
-        myName: 'YouTube',
-        URL: ''
-    },
-
+    }
 ]
