@@ -1,30 +1,20 @@
-export var email = 'p32929@gmail.com'
+export var email = 'shuvabiswas12.python@gmail.com'
 
 export var socialLinks = [
     {
         title: 'Skype',
         logo: 'https://image.flaticon.com/icons/svg/174/174869.svg',
-        link: 'p32929'
+        link: 'shuvabiswas1'
     },
     {
         title: 'WhatApp',
         logo: 'https://image.flaticon.com/icons/svg/174/174879.svg',
-        link: 'https://api.whatsapp.com/send?phone=8801796306262'
+        link: 'https://api.whatsapp.com/send?phone=8801840718937'
     },
     {
         title: 'LinkedIn',
         logo: 'https://image.flaticon.com/icons/svg/174/174857.svg',
-        link: 'https://www.linkedin.com/in/p32929/'
-    },
-    {
-        title: 'Reddit',
-        logo: 'https://image.flaticon.com/icons/svg/174/174866.svg',
-        link: 'https://www.reddit.com/user/p32929'
-    },
-    {
-        title: 'Google Play',
-        logo: 'https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg',
-        link: 'https://play.google.com/store/apps/developer?id=Rich+IT&hl=en'
+        link: 'https://www.linkedin.com/in/shuva-biswas-48574596/'
     },
 
 
