@@ -7,7 +7,7 @@ import ContactsIcon from '@material-ui/icons/Contacts';
 export var upperItems = [
     {
         myName: 'Home',
-        icon: <HomeIcon/>,
+        icon: <HomeIcon />,
         to: '/'
     },
     // {
@@ -16,17 +16,17 @@ export var upperItems = [
     // },
     {
         myName: 'Skills',
-        icon: <SettingsIcon/>,
+        icon: <SettingsIcon />,
         to: '/skills'
     },
     {
         myName: 'Projects',
-        icon: <WorkIcon/>,
+        icon: <WorkIcon />,
         to: '/projects'
     },
     {
         myName: 'Contact',
-        icon: <ContactsIcon/>,
+        icon: <ContactsIcon />,
         to: '/contact'
     },
 ]
@@ -34,23 +34,23 @@ export var upperItems = [
 export const lowerItems = [
     {
         myName: 'Blog',
-        URL: 'http://p32929.wordpress.com/'
+        URL: 'https://shuvabiswas.wordpress.com/'
     },
     {
         myName: 'Facebook',
-        URL: 'http://facebook.com/p32929'
+        URL: 'http://facebook.com/shuvabiswas12'
     },
     {
         myName: 'Twitter',
-        URL: 'http://twitter.com/p32929'
+        URL: 'http://twitter.com/shuvabiswas12'
     },
     {
         myName: 'Instagram',
-        URL: 'http://instagram.com/p32929'
+        URL: 'http://instagram.com/_shuvabiswas12'
     },
     {
         myName: 'YouTube',
-        URL: 'https://www.youtube.com/channel/UC4T4Qi_DDvLKz9o4VhUjz4Q'
+        URL: ''
     },
 
 ]

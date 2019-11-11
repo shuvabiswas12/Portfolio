@@ -4,10 +4,6 @@ export var languages = [
         logo: 'https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png',
     },
     {
-        title: 'C++',
-        logo: 'https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png',
-    },
-    {
         title: 'Java',
         logo: 'https://www.vectorlogo.zone/logos/java/java-icon.svg',
     },
@@ -36,10 +32,6 @@ export var languages = [
         logo: 'https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg',
     },
     {
-        title: 'VBScript',
-        logo: 'https://banner2.kisspng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg',
-    },
-    {
         title: 'Batch',
         logo: 'https://cdn0.iconfinder.com/data/icons/software-4/24/console_command_prompt_shell_program-512.png',
     },
@@ -52,20 +44,8 @@ export var languages = [
         logo: 'https://www.vectorlogo.zone/logos/php/php-icon.svg',
     },
     {
-        title: 'Ruby',
-        logo: 'https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg',
-    },
-    {
-        title: 'Kotlin',
-        logo: 'https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg',
-    },
-    {
         title: 'Dart',
         logo: 'https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg',
-    },
-    {
-        title: 'Pug',
-        logo: 'https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg'
     },
     {
         title: 'XML',
@@ -75,109 +55,80 @@ export var languages = [
 
 export var frameworks = [
     {
-        title: 'Android App Development',
-        logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg'
-    },
-    {
-        title: 'NodeJS',
-        logo: 'https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'
-    },
-    {
-        title: 'ExpressJS',
-        logo: 'https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg'
-    },
-    {
-        title: 'npm',
-        logo: 'https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg'
-    },
-    {
         title: 'ReactJS',
         logo: 'https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'
     },
     {
-        title: 'React Native',
-        logo: 'https://images.codedaily.io/icons/react.svg'
-    },
-    {
-        title: 'Adonis JS',
-        logo: 'https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg'
-    },
-    {
-        title: 'ElectronJS',
-        logo: 'https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg'
-    },
-    {
-        title: 'Angular2+',
-        logo: 'https://angular.io/assets/images/logos/angular/angular.svg'
-    },
-    {
         title: 'Bootstrap',
-        logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg'
-    },
-    {
-        title: 'MongoDB',
-        logo: 'https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'
-    },
-    {
-        title: 'Mongoose',
-        logo: 'https://images.opencollective.com/proxy/images?src=https%3A%2F%2Fopencollective-production.s3-us-west-1.amazonaws.com%2F7a00cdd0-fae4-11e7-ae09-7f36f712693a.png&height=640'
-    },
-    {
-        title: 'Babel',
-        logo: 'https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg'
-    },
-    {
-        title: 'GSON',
-        logo: 'https://s.appbrain.com/static/201904161618755/blob/sdk-logos/google_gson.png'
-    },
-    {
-        title: 'Deployd',
-        logo: 'http://deployd.com/img/bucket/modular.png'
+        logo: 'https://icon-library.net/images/bootstrap-icon-png/bootstrap-icon-png-10.jpg'
     },
     {
         title: 'OpenCV',
         logo: 'https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg'
     },
     {
-        title: 'Parse',
-        logo: 'https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg'
-    },
-    {
-        title: 'Firebase',
-        logo: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'
-    },
-    {
-        title: 'Facebook SDKs',
-        logo: 'https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg'
-    },
-    {
-        title: 'Google SDKs',
-        logo: 'https://www.vectorlogo.zone/logos/google/google-icon.svg'
-    },
-    {
         title: 'Flutter',
         logo: 'https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'
-    },
-    {
-        title: 'Tensorflow',
-        logo: 'https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg'
-    },
-    {
-        title: 'Unity',
-        logo: 'https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg'
-    },
-    {
-        title: 'Yarn',
-        logo: 'https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg'
     },
     {
         title: 'BS4',
         logo: 'https://funthon.files.wordpress.com/2017/05/bs.png?w=772'
     },
+    {
+        title: 'SCRAPY',
+        logo: 'https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png'
+    },
+    {
+        title: 'FLASK',
+        logo: 'https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png'
+    },
+    {
+        title: 'SELENIUM',
+        logo: 'https://avatars0.githubusercontent.com/u/983927?v=3&s=400'
+    },
+    {
+        title: 'JavaFx',
+        logo: 'https://miro.medium.com/proxy/1*1gRUS0EnV0LAc7kVAx1n2w.png'
+    },
+    {
+        title: 'npm',
+        logo: 'https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg'
+    },
+
+    {
+        title: 'Angular2+',
+        logo: 'https://angular.io/assets/images/logos/angular/angular.svg'
+    },
+    {
+        title: 'Apache POI',
+        logo: 'https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png'
+    },
+
+    {
+        title: 'MongoDB',
+        logo: 'https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'
+    },
+    {
+        title: 'GSON',
+        logo: 'https://s.appbrain.com/static/201904161618755/blob/sdk-logos/google_gson.png'
+    },
+
+    {
+        title: 'Firebase',
+        logo: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'
+    },
+    {
+        title: 'Google SDKs',
+        logo: 'https://www.vectorlogo.zone/logos/google/google-icon.svg'
+    },
+
+
+
 
 ]
 
 export var others = [
+
     {
         title: 'Git',
         logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
@@ -191,12 +142,8 @@ export var others = [
         logo: 'https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg'
     },
     {
-        title: 'Arduino',
-        logo: 'https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg'
-    },
-    {
         title: 'IntelliJ IDA',
-        logo: 'https://www.jetbrains.com/company/brand/img/jb-logo-with-grid.svg'
+        logo: 'https://icon-library.net/images/intellij-idea-icon/intellij-idea-icon-26.jpg'
     },
     {
         title: 'Webstorm',
@@ -205,10 +152,6 @@ export var others = [
     {
         title: 'VS Code',
         logo: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg'
-    },
-    {
-        title: 'Asana',
-        logo: 'https://cdn.worldvectorlogo.com/logos/asana-1.svg'
     },
     {
         title: 'Automation',
@@ -223,27 +166,7 @@ export var others = [
         logo: 'https://www.vectorlogo.zone/logos/apache/apache-ar21.svg'
     },
     {
-        title: 'Asana',
-        logo: 'https://www.vectorlogo.zone/logos/asana/asana-ar21.svg'
-    },
-    {
-        title: 'AWS',
-        logo: 'https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg'
-    },
-    {
-        title: 'Expo',
-        logo: 'https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg'
-    },
-    {
-        title: 'Figma',
-        logo: 'https://www.vectorlogo.zone/logos/figma/figma-icon.svg'
-    },
-    {
         title: 'Heroku',
         logo: 'https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg'
-    },
-    {
-        title: 'NgInx',
-        logo: 'https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg'
     },
 ]

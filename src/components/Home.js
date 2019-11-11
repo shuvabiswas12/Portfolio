@@ -1,11 +1,11 @@
 import React from 'react';
 import Grid from '@material-ui/core/Grid';
-import {withStyles} from '@material-ui/core/styles';
+import { withStyles } from '@material-ui/core/styles';
 import Paper from "@material-ui/core/es/Paper/Paper";
 import Avatar from "@material-ui/core/Avatar/Avatar";
 import Typography from "@material-ui/core/Typography/Typography";
 import Divider from "@material-ui/core/es/Divider/Divider";
-import {myDetails, myName, myOccupation, myImageLink} from './../vars/homeItems'
+import { myDetails, myName, myOccupation, myImageLink } from './../vars/homeItems'
 
 const size = 200;
 
@@ -17,7 +17,7 @@ const styles = theme => ({
 });
 
 const style = {
-    avatar: {height: size, width: size, marginTop: 32},
+    avatar: { height: size, width: size, marginTop: 32 },
     detailsGrid: {
         padding: 24
     },
@@ -42,7 +42,7 @@ const style = {
 
 const Home = (props) => (
     <Grid container
-          direction="column">
+        direction="column">
         <Paper>
             <Grid
                 container
@@ -51,13 +51,13 @@ const Home = (props) => (
                 alignItems="center">
 
                 <Avatar alt={myName} src={myImageLink}
-                        style={style.avatar}/>
+                    style={style.avatar} />
 
                 <Grid container
-                      direction="column"
-                      justify="center"
-                      alignItems="center"
-                      style={style.detailsGrid}
+                    direction="column"
+                    justify="center"
+                    alignItems="center"
+                    style={style.detailsGrid}
                 >
                     <Typography style={style.title}>
                         {myName}
@@ -68,7 +68,7 @@ const Home = (props) => (
                     </Typography>
                 </Grid>
 
-                <Divider style={style.divider}/>
+                <Divider style={style.divider} />
 
             </Grid>
 
